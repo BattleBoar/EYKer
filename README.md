@@ -14,7 +14,6 @@
 
 - `src/arch/x86/` — архитектурно-зависимый код:
      - Entry Point
-     - PMM, VMM
      - GDT, IDT, TSS
 - `src/core/` — ядро:
      -  процессы,
